@@ -1,0 +1,5 @@
+1) Performed statistical analysis on annual sales data of E-Commerce client, and generated regression model to predict sales, using SAS 9.4.
+2) Performed Chi-square test of independence to find association among Client site, customer's operating system and month of the year.
+3) Generated stacked bar charts to show the percentage contributions of Client sites, customer's operating system and month of the year in overall sales.
+4) Used Analysis of Variance (ANOVA) test to determine if there is significant association between each of the above mentioned categorical variables and overall sales.
+5) Generated and evaluated a multiple regression model to predict future sales. Eliminated redundant independent variables and controlled multicollinearity by creating custom metrics.
